@@ -66,5 +66,10 @@
     "dirty-chai": "2.0.1",
     "jest": "24.9.0",
     "supertest": "4.0.2"
-  }
+  },
+  "directories": {
+    "doc": "doc",
+    "test": "test"
+  },
+  "author": "Lexy"
 }
